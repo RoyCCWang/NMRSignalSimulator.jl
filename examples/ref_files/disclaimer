@@ -1,0 +1,5 @@
+We curated these values from the GISSMO website (doi: 10.1021/acs.analchem.7b02884 for their journal paper) and Govindaraju et. al. (doi: 10.1002/1099-1492(200005)13:3<129::AID-NBM619>3.0.CO;2-V)
+
+Our understanding is that the values from these two studies were obtained from empirical fitting of reference compound experiments (experiments with only a target compound, solvent, and 0 ppm frequency reference). We do not guarantee the correctness of these values to the true J-coupling and chemical shift values of these compounds at room temperature. We provide them to show how to load any J-coupling and reference chemical shift values into our software package. You're welcombed to use your own values instead of the ones provided here.
+
+There is a larger source of values from these same two sources that we curated at (DOI: 10.5281/zenodo.8174261). Again, we do not guarantee the correctness of the values there.

@@ -1,0 +1,25 @@
+name = "NMRSignalSimulator"
+uuid = "5a515ddf-a3f2-4a7d-82cc-71ac3f3f244b"
+authors = ["Roy Chih Chung Wang <roy.c.c.wang@proton.me>"]
+version = "0.9.0"
+
+[deps]
+CubicBSplineInterpolation = "cea239a1-aef7-4735-a0ad-35c493ad27cc"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NMRHamiltonian = "d73005cc-2eb2-45b3-9785-29d07aec07ac"
+
+[compat]
+CubicBSplineInterpolation = "0.4.0"
+JSON3 = "1.14"
+julia = "1.11"
+
+[extras]
+FiniteDiff = "6a86dc24-6348-571c-b903-95158fe2bd41"
+NMRHamiltonian = "d73005cc-2eb2-45b3-9785-29d07aec07ac"
+NonNegLeastSquares = "b7351bd1-99d9-5c5d-8786-f205a815c4d7"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["FiniteDiff", "NonNegLeastSquares", "NMRHamiltonian", "Random", "Test"]

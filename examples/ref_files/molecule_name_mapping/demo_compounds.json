@@ -1,0 +1,74 @@
+{
+   "L-Isoleucine": {
+      "notes": "http://gissmo.bmrb.io/entry/bmse000041/simulation_1",
+      "file name": "bmse000041_simulation_1.json"
+   },
+   "L-Leucine": {
+      "notes": "http://gissmo.bmrb.io/entry/bmse000042/simulation_1",
+      "file name": "bmse000042_simulation_1.json"
+   },
+   "L-Valine": {
+      "notes": "http://gissmo.bmrb.io/entry/bmse000052/simulation_1",
+     "file name": "bmse000052_simulation_1.json"
+   },
+   "L-Valine - Govindaraju": {
+      "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
+      "file name": "Valine_Govindaraju_2000.json"
+   },
+   "L-Glutamine": {
+      "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
+      "file name": "Glutamine_Govindaraju_2000.json"
+   },
+   "L-Serine": {
+      "notes": "http://gissmo.bmrb.io/entry/bmse000867/simulation_1",
+      "file name": "bmse000867_simulation_1.json"
+   },
+   "L-Serine - Govindaraju": {
+      "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
+      "file name": "Serine_Govindaraju_2000.json"
+   },
+   "alpha-D-Glucose": {
+      "notes": "http://gissmo.bmrb.io/entry/bmse000015/simulation_1",
+      "file name": "bmse000015_alpha.json"
+   },
+   "beta-D-Glucose": {
+      "notes": "http://gissmo.bmrb.io/entry/bmse000015/simulation_1",
+      "file name": "bmse000015_beta.json"
+   },
+   "alpha-D-Glucose - Govindaraju": {
+      "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
+      "file name": "alpha-glucose_Govindaraju_2000.json"
+   },
+   "beta-D-Glucose - Govindaraju": {
+      "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
+      "file name": "beta-glucose_Govindaraju_2000.json"
+   },
+   "DSS": {
+      "notes": "http://gissmo.bmrb.io/entry/bmse000795/simulation_1",
+      "file name": "bmse000795_simulation_1.json"
+   },
+   "Singlet - 0 ppm": {
+      "notes": "single resonance component",
+      "file name": "singlet_0ppm.json"
+   },
+   "Singlet - 4.7 ppm": {
+      "notes": "single resonance component",
+      "file name": "singlet_4.7ppm.json"
+   },
+   "Singlet - 4.75 ppm": {
+      "notes": "single resonance component",
+      "file name": "singlet_4.75ppm.json"
+   },
+   "Singlet - 4.8 ppm": {
+      "notes": "single resonance component",
+      "file name": "singlet_4.8ppm.json"
+   },
+   "Singlet - 4.85 ppm": {
+      "notes": "single resonance component",
+      "file name": "singlet_4.85ppm.json"
+   },
+   "Singlet - 4.9 ppm": {
+      "notes": "single resonance component",
+      "file name": "singlet_4.9ppm.json"
+   }
+}
