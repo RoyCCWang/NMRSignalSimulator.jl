@@ -2,3 +2,4 @@
 BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
 FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
 NMRHamiltonian = "d73005cc-2eb2-45b3-9785-29d07aec07ac"
+NMRSignalSimulator = "5a515ddf-a3f2-4a7d-82cc-71ac3f3f244b"

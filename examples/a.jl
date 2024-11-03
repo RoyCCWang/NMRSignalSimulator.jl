@@ -12,7 +12,7 @@ import PythonPlot as PLT
 
 import NMRHamiltonian as HAM
 
-using Revise
+#using Revise
 
 import NMRSignalSimulator as SIG
 

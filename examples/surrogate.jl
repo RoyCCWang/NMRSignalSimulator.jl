@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: GPL-3.0-only
 # Copyright © 2024 Roy Chih Chung Wang <roy.c.c.wang@proton.me>
 
-# run a.jl first.
+include("a.jl")
 
 
 #import PublicationDatasets as DS
